@@ -15,13 +15,11 @@ Tools & Technologies
  
 Project Files
 
-customer_shopping_behavior.csv  -  Dataset used for analysis
-analysis.ipynb - Python-based data cleaning, EDA, and analysis
-queries.sql - SQL queries used for data analysis
-customer_shopping_behavior_dashboard.pbix - Power BI Dashboard
-dashboard.png - Power BI Dashboard preview
-customer_shopping_behavior.pptx - Project presentation
-customer_shopping_behavior_report.pdf - Detailed project report
+* customer_shopping_behavior.csv — Dataset used for analysis
+* analysis.ipynb — Python-based data cleaning, EDA, and analysis
+* queries.sql — SQL queries used for data analysis
+* customer_shopping_behavior_dashboard.pbix — Power BI Dashboard
+* dashboard.png — Power BI Dashboard preview
 
 Analysis Performed
 
