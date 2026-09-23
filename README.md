@@ -38,11 +38,6 @@ Power BI Dashboard
 
 ![Power BI Dashboard](dashboard.png)
 
-Project Documentation
-
-[View Project Presentation](customer_shopping_behavior.pptx)
-[view Project Report](customer_shopping_behaviour.pdf)
-
 
 Key Skills Demonstrated
 
